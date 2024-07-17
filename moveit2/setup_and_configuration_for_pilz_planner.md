@@ -73,4 +73,4 @@ move_group_node = Node(
 
 ## Example Launch File
 
-In this repository ([here]([url](https://github.com/gaspatxo/ros2_guides/blob/main/moveit2/panda_demo_with_pilz.launch.py))) you can find is the modified version of [`demo.launch.py`](https://github.com/moveit/moveit_resources/blob/humble/panda_moveit_config/launch/demo.launch.py) from `panda_moveit_config` (humble).
+In this repository ([here](https://github.com/gaspatxo/ros2_guides/blob/main/moveit2/panda_demo_with_pilz.launch.py)) you can find is the modified version of [`demo.launch.py`](https://github.com/moveit/moveit_resources/blob/humble/panda_moveit_config/launch/demo.launch.py) from `panda_moveit_config` (humble).
